@@ -10,9 +10,7 @@ Beyond doing an analysis of all aggregated Pyber data, we can further gain insig
 ![image](https://user-images.githubusercontent.com/108832056/185262305-d154bdf4-5549-4db3-8fee-747d7f8148ac.png)
 
 ![image](https://user-images.githubusercontent.com/108832056/185262318-578a3f42-a72c-4924-a328-e7571a2a0323.png)
-
 ![image](https://user-images.githubusercontent.com/108832056/185262339-b6a1ac88-d152-4ace-8482-f18ffe46b04d.png)
-
 ![image](https://user-images.githubusercontent.com/108832056/185262354-cb5ecf69-e389-4e1d-a758-1b873c6c3a95.png)
 
 ![image](https://user-images.githubusercontent.com/108832056/185262377-cc98b51b-49bb-4963-bca9-0ba4a417c351.png)
