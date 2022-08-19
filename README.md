@@ -14,7 +14,7 @@ Clearly, average ride fare is the highest, generally, in rural cities, second-hi
 
 Math Prior to THS 9th Grade Score Removal           |  Reading Prior to THS 9th Grade Score Removal          | Reading Prior
 :-------------------------:|:-------------------------:|:--------------------------:|
-![image](https://user-images.githubusercontent.com/108832056/184418490-e245fa57-0db0-4fdc-b60e-49ef84773ae6.png)|  ![image](https://user-images.githubusercontent.com/108832056/184418540-32844a61-39c3-4640-8ad6-ea7fa3c468e4.png)
+![image](https://user-images.githubusercontent.com/108832056/185262377-cc98b51b-49bb-4963-bca9-0ba4a417c351.png)|  ![image](https://user-images.githubusercontent.com/108832056/185262405-2b3f1c82-ef7f-4e2a-bf66-dbdd8544d397.png) |![image](https://user-images.githubusercontent.com/108832056/185262428-30b5565f-4542-4e9f-8d4b-6a685a53c566.png)
 
 ![image](https://user-images.githubusercontent.com/108832056/185262377-cc98b51b-49bb-4963-bca9-0ba4a417c351.png)
 ![image](https://user-images.githubusercontent.com/108832056/185262405-2b3f1c82-ef7f-4e2a-bf66-dbdd8544d397.png)
