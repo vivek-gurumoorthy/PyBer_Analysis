@@ -27,6 +27,6 @@ This figure, tracking fares accumulated from Pyber use over the course of the be
 
 ## Summary: 
 Three recommendations
-1. Rather than only driving in a specifc city, drivers could potentially be assigned a gegraphic area that includes a few different cities and have the city in which they drive for the day rotate. This could potentially increase the number of available drivers in rural cities and make the average ride fare in those locations more affordable for customers.
+1. Rather than only driving in a specifc city, drivers could potentially be assigned a gegraphic area that includes a few different cities, preferably of varying categories, and have the city in which they drive for the day rotate. This could potentially increase the number of available drivers in rural cities and make the average ride fare in those locations more affordable for customers.
 2. 
 3. 
