@@ -16,6 +16,9 @@ Clearly, average ride fare is the highest, generally, in rural cities, second-hi
 
 ![image](https://user-images.githubusercontent.com/108832056/185385927-254ad8d3-2072-48cf-b10d-f4fcf7d40da9.png)
 
+<p align = "center">
+  <img width="767" height="500" src="https://user-images.githubusercontent.com/108832056/185262443-9a195c84-eabf-4dc6-b7b5-66d890b3601c.png">
+</p>
 
 ![image](https://user-images.githubusercontent.com/108832056/185262443-9a195c84-eabf-4dc6-b7b5-66d890b3601c.png)
 
