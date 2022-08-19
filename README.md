@@ -28,5 +28,5 @@ This figure, tracking fares accumulated from Pyber use over the course of the be
 ## Summary: 
 Three recommendations
 1. Rather than only driving in a specifc city, drivers could potentially give drivers the option of being assigned a gegraphic area that includes a few different cities, preferably of varying categories, and have the city in which they drive for the day rotate. This could potentially increase the number of available drivers in rural cities and make the average ride fare in those locations more affordable for customers.
-2. To incentivize driving in rural areas, Pyber itself could pay an additional sum to drivers who mostly service rural areas and make rural customers pay a less disproportionately large fares. This would incentivize more drivers to service these rural areas and make customers less hesitant to pay the normally high fare prices.  
+2. To incentivize driving in rural areas, Pyber itself could pay an additional sum to drivers who mostly service rural areas and make rural customers pay less disproportionately large fares. This would incentivize more drivers to service these rural areas and make customers less hesitant to pay the normally high fare prices.  
 3. 
