@@ -8,8 +8,7 @@ Beyond doing an analysis of all aggregated Pyber data, we can try to understand 
 ## Results: 
 
 <p align = "center">
-  ![image](https://user-images.githubusercontent.com/108832056/185262305-d154bdf4-5549-4db3-8fee-747d7f8148ac.png)
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/108832056/185262305-d154bdf4-5549-4db3-8fee-747d7f8148ac.png">
+  <img width="767" height="500" src="https://user-images.githubusercontent.com/108832056/185262305-d154bdf4-5549-4db3-8fee-747d7f8148ac.png">
 </p>
 
 This figure compares the total number of rides, average fare, and number of available drivers between the three different city types. The x-axis represents total rides per city, the y-axis represents average fare of a ride, bubble size represents the number of available drivers in the city of interest, and bubble color is determined by whether the city is either urban, suburban, or rural. 
