@@ -22,6 +22,8 @@ The DataFrame above depicts the aggregation of all Pyber data by each city type.
   <img width="460" height="300" src="https://user-images.githubusercontent.com/108832056/185262443-9a195c84-eabf-4dc6-b7b5-66d890b3601c.png">
 </p>
 
+This figure, tracking fares accumulated from Pyber use over the course of the beginning of January 2019 to the end of April 2019, demonstrates some trends. First and foremost, as seen with nearly all other statistics, Pyber use is inherently highest in urban cities, second-highest in suburban cities, and lowest in rural cities. This, perhaps in part due to a significantly higher number of total drivers as identified above, results in the fares being accumulated from each city directly aligning with this hierarchy. Despite some fluctuations in data, the fares accumulated by urban Pybers far outmatch those accumulated by suburban Pybers, and likewise the fares accumulated by suburban Pybers dwarf those accumulated by rural Pybers.
+
 
 ## Summary: 
 Three recommendations
