@@ -12,11 +12,6 @@ Beyond doing an analysis of all aggregated Pyber data, we can try to understand 
 This figure compares the total number of rides, average fare, and number of available drivers between the three different city types. The x-axis represents total rides per city, the y-axis represents average fare of a ride, bubble size represents the number of available drivers in the city of interest, and bubble color is determined by whether the city is either urban, suburban, or rural. 
 Clearly, average ride fare is the highest, generally, in rural cities, second-highest in suburban cities, and lowest in urban cities. Additionally, number of total rides is the highest in urban cities, second-highest in suburban cities, and lowest in rural cities. Finally, total driver count is highest in urban cities, second-highest in urban cities, and lowest in rural cities.
 
-![image](https://user-images.githubusercontent.com/108832056/185262318-578a3f42-a72c-4924-a328-e7571a2a0323.png)
-![image](https://user-images.githubusercontent.com/108832056/185262339-b6a1ac88-d152-4ace-8482-f18ffe46b04d.png)
-![image](https://user-images.githubusercontent.com/108832056/185262354-cb5ecf69-e389-4e1d-a758-1b873c6c3a95.png)
-
-
 ![image](https://user-images.githubusercontent.com/108832056/185262377-cc98b51b-49bb-4963-bca9-0ba4a417c351.png)
 ![image](https://user-images.githubusercontent.com/108832056/185262405-2b3f1c82-ef7f-4e2a-bf66-dbdd8544d397.png)
 ![image](https://user-images.githubusercontent.com/108832056/185262428-30b5565f-4542-4e9f-8d4b-6a685a53c566.png)
